@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvKalpeshThakar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Php Language.
+- 🌱 I’m currently Exploring  Python Language.
 - 📫 Reach me through My mail- dhruvthakar2210@gmail.com
 
 <!---
