@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhruvKalpeshThakar
-- 👀 I’m interested in Web Development
+- 👀 Currently Exploring the App Development using React Native
 - 📫 Reach me through My mail- dhruvthakar2210@gmail.com
 
 <!---
