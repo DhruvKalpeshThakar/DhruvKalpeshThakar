@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhruvKalpeshThakar
-- 👀 I am currently onto React Technology.
-- 📫 Reach me through My mail- dhruvthakar2210@gmail.com
+- 👀 I am currently onto FrontEnd Development.
+
 
 <!---
 DhruvKalpeshThakar/DhruvKalpeshThakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
